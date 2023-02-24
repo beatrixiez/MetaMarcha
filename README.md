@@ -1,2 +1,2 @@
 # DemoDay
-Projeto de uma ERP feito em grupo como um dos métodos de conclusão do curso programação web Java do instituto PROA. 
+Projeto de uma ferramenta ERP feita em grupo como um dos métodos de conclusão do curso Programação Web Java do Instituto PROA. 
